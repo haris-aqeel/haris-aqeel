@@ -14,6 +14,8 @@ experience.
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 Web and Mobile Apps that have 10k+ users<br />
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙. <br />
 
+Note: Just got time to edit the starting paragraph after several years :)
+
 
 ### 🛠 &nbsp;Tech Stack
 
