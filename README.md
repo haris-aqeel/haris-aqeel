@@ -4,15 +4,14 @@
   <img src="GIF/Hi.gif" width="40px" />
 </p>
 <h2> 😁 About me </h2>
-I am Haris Aqeel, aspiring full stack developer with more than 3 years’ experience in the field of web development as well
-as app development. <br />  <br />
+Top-Rated plus developer having worked with Fortune500 Clients and Top-Notch organizations. Having +6 years experience working with complex web and mobile applications.  <br />  <br />
 
 Front end web development is my profession and I strive to deliver semantic
 markup, to-the-point CSS in conjunction with snappy performance to guarantee a top-notch user
 experience. 
 <br />
 <br />
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **MERN Stack 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.** <br />
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 Web and Mobile Apps that have 10k+ users<br />
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙. <br />
 
 
