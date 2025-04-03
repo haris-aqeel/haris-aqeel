@@ -4,7 +4,7 @@
   <img src="GIF/Hi.gif" width="40px" />
 </p>
 <h2> 😁 About me </h2>
-Top-Rated plus developer having worked with Fortune500 Clients and Top-Notch organizations. Having +6 years experience working with complex web and mobile applications. Contributed to @Microsoft , @Google and several open source projects  <br />  <br />
+Top-Rated plus developer having worked with Fortune500 Clients and Top-Notch organizations. Having +6 years experience working with complex web and mobile applications. Contributed to <strong>Microsoft</strong> and several open source projects  <br />  <br />
 
 Front end web development is my profession and I strive to deliver semantic
 markup, to-the-point CSS in conjunction with snappy performance to guarantee a top-notch user
