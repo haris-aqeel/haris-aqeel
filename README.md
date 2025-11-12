@@ -1,176 +1,183 @@
-<p align="center">
-  <img src="GIF/Earth.gif" width="24px">
-  𝐇𝐞𝐥𝐥𝐨, &lt;c𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <img src="GIF/Hi.gif" width="40px" />
-</p>
-<h2> 😁 About me </h2>
-Top-Rated plus developer having worked with Fortune500 Clients and Top-Notch organizations. Having +6 years experience working with complex web and mobile applications. Contributed to <strong>Microsoft</strong> and several open source projects  <br />  <br />
-
-Front end web development is my profession and I strive to deliver semantic
-markup, to-the-point CSS in conjunction with snappy performance to guarantee a top-notch user
-experience. 
-<br />
-<br />
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 Web and Mobile Apps that have 10k+ users<br />
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙. <br />
-
-Note: Just got time to edit the starting paragraph after several years :) . The stats below are still old. Can't update them all. 
-
-
-### 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<!-- <p align="center">
-  <code>
-    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2FJayantGoel001" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
-  </code>
-</p> -->
-
-
-<!-- #
-
-
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
-
-<p align="center">
-  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
-</p>
-
-#
-
-<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
-<br/>
-<p align="center">
-<!--   <img src="![Profile views](https://gpvc.arturio.dev/haris-aqeel)" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •   -->
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=haris-aqeel&style=flat&color=brightgreen"> •  <img src="https://user-badge.committers.top/pakistan/haris-aqeel.svg"></a> •
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/haris-aqeel?label=Followers&style=social"> •
-  <img src="https://img.shields.io/github/stars/haris-aqeel?label=Star" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
-  <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
-</p>
-
-### ⚙️ &nbsp;Languages & Tools
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-
-
-<br/>
-<h3> 📈 Github Stats </h3>
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=haris-aqeel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haris-aqeel&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-<br/>
-
-
-
-
-<h3> ⏳ Time Stats </h3>
-<!--START_SECTION:waka-->
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--3%20Million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 13,331 Contributions in the Year 2021
- 
- > 
-> 📜 60 Public Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    117 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.57% 
-🌆 Daytime    274 commits    ██████████░░░░░░░░░░░░░░░   43.49% 
-🌃 Evening    115 commits    ████░░░░░░░░░░░░░░░░░░░░░   10.25% 
-🌙 Night      124 commits    █████████████████████░░░░   80.68%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.25% 
-Tuesday      96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.24% 
-Wednesday    183 commits    ███████░░░░░░░░░░░░░░░░░░   29.05% 
-Thursday     82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.02% 
-Friday       74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.75% 
-Saturday     78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.38% 
-Sunday       65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.32%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Karachi
-
-💬 Programming Languages: 
-Other                    60 hrs 5 mins       ██████████████████████░░░   91.43% 
-JavaScript               1 hr 46 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.69% 
-HTML                     46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18% 
-TypeScript               42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.08% 
-
-🔥 Editors: 
-Browser                  60 hrs 4 mins       ██████████████████████░░░   91.4% 
-VS Code                  3 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.46% 
-
-💻 Operating System: 
-Windows                      65 hrs 43 mins      █████████████████████████   100.0%
-
-```
-<!--END_SECTION:waka-->
-
-<h3>
-   <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="30px"> Connect With Me
- 
-</h3> 
-
-<p align="center">
-<a href="https://haris-aqeel.web.app/"><img src="https://img.shields.io/badge/-harisaqeel-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/haris-aqeel/"><img src="https://img.shields.io/badge/-Haris%20Aqeel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:harisaqeel.2001@gmail.com"><img src="https://img.shields.io/badge/-harisaqeel-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
-
-<br/>
-<br/>
-
 <div align="center">
 
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+# 👋 Hello, I'm Haris Aqeel
+
+### Software Architect | End-to-End Solutions Expert
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://haris-aqeel.web.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haris-aqeel/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harisaqeel.2001@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=haris-aqeel&style=flat-square&color=blue)
 
 </div>
 
+---
 
-**Last Edited on**: 23/06/2022
+## 🎯 What I Do
+
+I architect and deliver **complete, production-ready software solutions** from concept to deployment. With **6+ years of experience** building scalable systems for Fortune 500 clients and enterprise organizations, I transform business requirements into robust, maintainable applications that drive real value.
+
+**I don't just write code—I design systems that solve problems.**
+
+### 🏗️ End-to-End Capabilities
+
+- **System Architecture**: Design scalable, maintainable architectures for web and mobile applications
+- **Full-Stack Development**: Handle everything from database design to API development to responsive frontends
+- **Technical Leadership**: Guide development strategy, technology selection, and implementation best practices
+- **DevOps & Deployment**: Set up CI/CD pipelines, cloud infrastructure, and production monitoring
+- **Performance Optimization**: Analyze and optimize systems serving 10,000+ concurrent users
+- **Legacy Modernization**: Refactor and upgrade existing systems with minimal disruption
+
+---
+
+## 💼 Value I Deliver
+
+### For Businesses & Clients
+
+- ✅ **Complete Solutions**: From initial architecture to deployment and maintenance
+- 🚀 **Faster Time-to-Market**: Reduce development cycles with proven patterns and expertise
+- 💰 **Cost-Effective**: Senior-level expertise without enterprise overhead
+- 📈 **Scalable Systems**: Build once, scale effortlessly as your business grows
+- 🔒 **Production-Ready**: Security, performance, and reliability built-in from day one
+- 🤝 **Clear Communication**: Translate technical complexity into business language
+
+### Proven Track Record
+
+- 🏢 Delivered solutions for **Fortune 500 companies**
+- 🌟 Contributed to **Microsoft** enterprise projects
+- 📦 **Top-Rated Plus** professional with consistent 5-star reviews
+- 👥 Built and scaled applications to **10,000+ active users**
+- 🔧 Successfully modernized legacy systems while maintaining business continuity
+
+---
+
+## 🛠️ Technical Expertise
+
+### Architecture & Design
+- Microservices Architecture
+- RESTful & GraphQL API Design
+- Database Design & Optimization
+- System Scalability & Performance
+- Cloud Architecture (AWS, Firebase, GCP)
+- Security Best Practices
+- AI/ML Integration & Custom Agents
+- RAG (Retrieval-Augmented Generation) Systems
+- LLM Application Architecture
+
+### Full-Stack Technologies
+
+**Frontend Development**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Infrastructure**
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**AI & Machine Learning**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**DevOps & Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+---
+
+## 🎨 Complete Solution Approach
+
+### Discovery & Planning
+- Requirements analysis and technical feasibility
+- Architecture design and technology selection
+- Project roadmap and milestone planning
+
+### Development & Implementation
+- Clean, maintainable, well-documented code
+- Automated testing and quality assurance
+- Continuous integration and deployment setup
+
+### Launch & Support
+- Production deployment and monitoring
+- Performance optimization and scaling
+- Ongoing maintenance and feature development
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=haris-aqeel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haris-aqeel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haris-aqeel&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=haris-aqeel&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 💬 Ready to Build Your Solution?
+
+Whether you need to build a new application from scratch, modernize an existing system, or scale your platform to the next level, I can help you achieve your goals with proven expertise and a results-driven approach.
+
+### Let's discuss your project:
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://haris-aqeel.web.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haris-aqeel/)
+[![Email](https://img.shields.io/badge/Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harisaqeel.2001@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Great software is not just code—it's a solution to a real problem."
+
+**⭐ Interested in my work? Let's build something exceptional together.**
+
+</div>
