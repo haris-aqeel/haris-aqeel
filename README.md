@@ -222,16 +222,6 @@ Built a HIPAA-aligned telehealth platform as sole developer, covering auth, audi
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=haris-aqeel&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 💬 Ready to Build Your Agentic System?
 
 Whether you need to build an AI product from scratch, add agents to an existing platform, modernize a legacy system, or scale your data and AI stack, I can help with proven expertise and a results-driven approach.
